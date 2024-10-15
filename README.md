@@ -1,4 +1,4 @@
-# TheoZL-
+# TheoZL/README.md
 ![Logo Pequeño](https://github.com/user-attachments/assets/006b77e0-ad0c-4022-a4bc-f53dd6bc3846)
 
 👋 Welcome to my GitHub! I’m Theo Zuñiga, a Systems Engineer, Frontend Developer, and MBA graduate specializing in Business Intelligence and Big Data. I thrive at the intersection of technology and data, creating solutions that are not only efficient but also data-driven.
